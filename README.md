@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/eGOtDXeS)
+
 # Research Paper
 * Name: Michaella Latkovic-Taber
 * Semester: Spring 2025
@@ -411,6 +411,7 @@ Working through this algorithm was genuinely fun and I'm really glad I chose thi
 [24] Rancher Labs. “Using Kubernetes in the Cockpit of an F-16.” YouTube, https://www.youtube.com/watch?v=YjZ4AZ7hRM0.
 
 [25] OpenAI. “Scaling Kubernetes to 7,500 Nodes.” https://openai.com/index/scaling-kubernetes-to-7500-nodes/.
+
 
 
 
